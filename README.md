@@ -1,16 +1,25 @@
 # Integer Sequences CPP
 
 This C++ project contains builds for both x86 and x64 architectures,
-which includes run-time and compile-time constructs for generating common integer sequences.
-Developed by Tyler R. Drury, with Visual Studios 2017.
+which includes run-time and compile-time constructs for conveniently representing and generating common integer sequences, including:
+
+* Factorials
+* Prime numbers
+* Catalan numbers
+* Horadam numbers
+* Padovan numbers
+* Hofstadter numbers
+* Collatz numbers
+* Pronic numbers
+* Lazy Caterer and Cake Numbers
+* Geometric numbers(polygonal, polyhedral)
+
 
 ---
 
-## Builds
+## Target Platform
 
-1. uses conventional class based Object Oriented Programming Techniques
-2. uses template meta programming to leverage recursion to create a static deck
-3. uses bitwise operations to reduce overall size of of a deck, while increasing speed of operations
+* Windows x86 and x64
 
 
 ---
@@ -41,8 +50,8 @@ Similar or related projects for various platforms can also be found here
 
 ## Official On-line Reference
 
-[Official IntegerSequences-cpp Reference]()
-[Online Encyclopedia of Integer Sequences]()
+* [Official IntegerSequences-cpp Reference]()
+* [Online Encyclopedia of Integer Sequences](http://oeis.org)
 
 
 ---
